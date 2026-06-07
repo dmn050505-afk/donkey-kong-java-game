@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Compiled files
+*.class
+
+# Build folders
+out/
+bin/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
