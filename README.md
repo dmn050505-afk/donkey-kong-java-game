@@ -17,6 +17,7 @@ The player's objective is to rescue the princess by completing three challenging
 
   * Food for health restoration
   * Sword for increased attack power
+  * Fire bombs that can be thrown at enemies
 * Interactive obstacles and traps
 * Collision detection system
 * Level progression
@@ -78,7 +79,7 @@ rooms/
 
 * Sword
 * Food
-* Fire hazards(bomb)
+* Fire bombs
 
 ### Objectives
 
