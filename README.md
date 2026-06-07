@@ -123,4 +123,5 @@ src/pt/iscte/poo/game/Main.java
 ## Authors
 
 * Daniel Nunes
+* Eduardo Alexandre
 
